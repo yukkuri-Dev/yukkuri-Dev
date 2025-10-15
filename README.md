@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yukkuri-Dev&show_icons=true&locale=en&layout=compact)
 <h1> Current projects I'm working on.</h1>
 <h3>🎮|Open-world game, Project "Lysine"</h3>
+<h3>L Lysine-SubProject LysineNext-VPU</h3>
 <h3>⌨|handmade keyboard, Project "Frekeys"</h3>
