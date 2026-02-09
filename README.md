@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 <h3>🎮|Open-world game, Project "Lysine"</h3>
 <h3>L Lysine-SubProject LysineNext-VPU</h3>
 <h3>⌨|handmade keyboard, Project "Frekeys"</h3>
+<h3>📁|EXplorer(FileManager for EX-Word)</h3>
