@@ -1,4 +1,4 @@
-## Hi there I'm CloverTech1105👋
+## Hi there I'm yukkuri-Dev👋
 
 <!--
 **yukkuri-Dev/yukkuri-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,4 @@ Here are some ideas to get you started:
 ## Mainly used languages (excluding private repositories, so there may be some bias).
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yukkuri-Dev&show_icons=true&locale=en&layout=compact)
 <h1> Current projects I'm working on.</h1>
-<h3>🎮|Open-world game, Project "Lysine"</h3>
-<h3>L Lysine-SubProject LysineNext-VPU</h3>
-<h3>⌨|handmade keyboard, Project "Frekeys"</h3>
 <h3>📁|EXplorer(FileManager for EX-Word)</h3>
